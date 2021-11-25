@@ -1,9 +1,9 @@
 # Social-Distancing-using-OpenCV
 
 ### Introduction
-Controlling the spread of contagious diseases is done through social distance.<br/>
+Controlling the spread of contagious diseases is done through social distance.
 As the term implies, social distancing entails people physically separating themselves from one another in order to reduce intimate contact and hence the spread of an infectious disease (such as coronavirus).<br/>
-But as seen at public places, breaching of social distancing regulations are observed more often.So what if we can built a software which can detect this violation and send warning to the authority to take necessary steps.
+But as seen at public places, breaching of social distancing regulations are observed more often. So what if we can built a software which can detect this violation and send warning to the authority to take necessary steps.
 
 ### Aim
 The main aim of this project is to monitor social distancing through human detection for preventing/reducing COVID spread using modern technologies.
@@ -34,6 +34,16 @@ Individuals are represented by a red bounding box if the distance is less than t
 > Output
 
 ![This is an output image](videos/output.gif)
+
+
+### Future works
+In this project , we are inputing the pre-recorded video from cctv footage. But we can implement it in real time using IP camera.
+
+Can connect the IP camera to the web server , and can monitor through live screen. This project is under progress. I have used flask and IP Webcam mobile application in order to get real time monitoring on web server. The IP camera app, makes mobile phone into IP camera, so we can get footage from mobile in real time without even using cctv camera.<br/>
+
+If anyone is interested in collaboration , contact me via discussion.
+
+
 ### References 
 
 * https://iopscience.iop.org/article/10.1088/1742-6596/1916/1/012039/pdf
