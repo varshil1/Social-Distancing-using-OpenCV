@@ -28,9 +28,12 @@ Individuals are represented by a red bounding box if the distance is less than t
 
 
 ### Results
-> Input 
+> Input
 
+![This is an input image](videos/input.gif)
 > Output
+
+![This is an output image](videos/output.gif)
 ### References 
 
 * https://iopscience.iop.org/article/10.1088/1742-6596/1916/1/012039/pdf
